@@ -1,0 +1,1717 @@
+[
+  {
+    "key": "001_en",
+    "source": "Custom Dataset/source/001.jpg",
+    "target": "Custom Dataset/target/001.jpg",
+    "instruction": "Improve the environment and clean the area.",
+    "instruction_language": "en",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "001_ar",
+    "source": "Custom Dataset/source/001.jpg",
+    "target": "Custom Dataset/target/001.jpg",
+    "instruction": "قم بتحسين البيئة وتنظيف المنطقة.",
+    "instruction_language": "ar",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "002_en",
+    "source": "Custom Dataset/source/002.jpg",
+    "target": "Custom Dataset/target/002.jpg",
+    "instruction": "Improve the environment and clean the area, add plants.",
+    "instruction_language": "en",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "002_ar",
+    "source": "Custom Dataset/source/002.jpg",
+    "target": "Custom Dataset/target/002.jpg",
+    "instruction": "قم بتحسين البيئة وتنظيف المنطقة.",
+    "instruction_language": "ar",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "003_en",
+    "source": "Custom Dataset/source/003.jpg",
+    "target": "Custom Dataset/target/003.jpg",
+    "instruction": "Improve the environment and clean the area, add plants.",
+    "instruction_language": "en",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "003_ar",
+    "source": "Custom Dataset/source/003.jpg",
+    "target": "Custom Dataset/target/003.jpg",
+    "instruction": "قم بتحسين البيئة وتنظيف المنطقة.",
+    "instruction_language": "ar",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "004_en",
+    "source": "Custom Dataset/source/004.jpg",
+    "target": "Custom Dataset/target/004.jpg",
+    "instruction": "Improve the environment and clean the area, add plants.",
+    "instruction_language": "en",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "004_ar",
+    "source": "Custom Dataset/source/004.jpg",
+    "target": "Custom Dataset/target/004.jpg",
+    "instruction": "قم بتحسين البيئة وتنظيف المنطقة.",
+    "instruction_language": "ar",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "005_en",
+    "source": "Custom Dataset/source/005.jpg",
+    "target": "Custom Dataset/target/005.jpg",
+    "instruction": "Improve the environment and clean the area, add plants.",
+    "instruction_language": "en",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "005_ar",
+    "source": "Custom Dataset/source/005.jpg",
+    "target": "Custom Dataset/target/005.jpg",
+    "instruction": "قم بتحسين البيئة وتنظيف المنطقة.",
+    "instruction_language": "ar",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "006_en",
+    "source": "Custom Dataset/source/006.jpg",
+    "target": "Custom Dataset/target/006.jpg",
+    "instruction": "Improve the environment and clean the area.",
+    "instruction_language": "en",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "006_ar",
+    "source": "Custom Dataset/source/006.jpg",
+    "target": "Custom Dataset/target/006.jpg",
+    "instruction": "قم بتحسين البيئة وتنظيف المنطقة.",
+    "instruction_language": "ar",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "007_en",
+    "source": "Custom Dataset/source/007.jpg",
+    "target": "Custom Dataset/target/007.jpg",
+    "instruction": "Improve the environment and clean the area, add plants and lights.",
+    "instruction_language": "en",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "007_ar",
+    "source": "Custom Dataset/source/007.jpg",
+    "target": "Custom Dataset/target/007.jpg",
+    "instruction": "قم بتحسين البيئة وتنظيف المنطقة.",
+    "instruction_language": "ar",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "008_en",
+    "source": "Custom Dataset/source/008.jpg",
+    "target": "Custom Dataset/target/008.jpg",
+    "instruction": "Improve the environment and clean the area, add park and light.",
+    "instruction_language": "en",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "008_ar",
+    "source": "Custom Dataset/source/008.jpg",
+    "target": "Custom Dataset/target/008.jpg",
+    "instruction": "قم بتحسين البيئة وتنظيف المنطقة.",
+    "instruction_language": "ar",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "009_en",
+    "source": "Custom Dataset/source/009.jpg",
+    "target": "Custom Dataset/target/009.jpg",
+    "instruction": "Transform the area into a school, enhance the environment, and clean up the space.",
+    "instruction_language": "en",
+    "task_type": "Transform"
+  },
+  {
+    "key": "009_ar",
+    "source": "Custom Dataset/source/009.jpg",
+    "target": "Custom Dataset/target/009.jpg",
+    "instruction": "تحويل المنطقة إلى مدرسة، مع تحسين البيئة المحيطة وتنظيف المساحة بالكامل، لتوفير بيئة تعليمية آمنة وجاذبة.",
+    "instruction_language": "ar",
+    "task_type": "Transform"
+  },
+  {
+    "key": "010_en",
+    "source": "Custom Dataset/source/010.jpg",
+    "target": "Custom Dataset/target/010.jpg",
+    "instruction": "Enhance the environment by cleaning the area, adding plants, and installing solar panels.",
+    "instruction_language": "en",
+    "task_type": "Transform"
+  },
+  {
+    "key": "010_ar",
+    "source": "Custom Dataset/source/010.jpg",
+    "target": "Custom Dataset/target/010.jpg",
+    "instruction": "تحسين البيئة من خلال تنظيف المنطقة، وزراعة النباتات، وتركيب ألواح شمسية لدعم الاستدامة وتوفير الطاقة النظيفة.",
+    "instruction_language": "ar",
+    "task_type": "Transform"
+  },
+  {
+    "key": "011_en",
+    "source": "Custom Dataset/source/011.jpg",
+    "target": "Custom Dataset/target/011.jpg",
+    "instruction": "Add a modern villa with a pool and focus on improving the environment and cleaning the area.",
+    "instruction_language": "en",
+    "task_type": "Transform"
+  },
+  {
+    "key": "011_ar",
+    "source": "Custom Dataset/source/011.jpg",
+    "target": "Custom Dataset/target/011.jpg",
+    "instruction": "إنشاء فيلا حديثة مزوّدة بمسبح، مع التركيز على تحسين البيئة المحيطة وتنظيف المنطقة بالكامل، لخلق مساحة سكنية راقية وصديقة للبيئة.",
+    "instruction_language": "ar",
+    "task_type": "Transform"
+  },
+  {
+    "key": "012_en",
+    "source": "Custom Dataset/source/012.jpg",
+    "target": "Custom Dataset/target/012.jpg",
+    "instruction": "Transform the building into a modern one by adding light and incorporating plants.",
+    "instruction_language": "en",
+    "task_type": "Transform"
+  },
+  {
+    "key": "012_ar",
+    "source": "Custom Dataset/source/012.jpg",
+    "target": "Custom Dataset/target/012.jpg",
+    "instruction": "تحويل المبنى إلى طراز عصري من خلال إضافة وحدات إنارة حديثة ودمج العناصر النباتية ضمن التصميم، بما يُضفي عليه مظهرًا حيويًا وأنيقًا.",
+    "instruction_language": "ar",
+    "task_type": "Transform"
+  },
+  {
+    "key": "013_en",
+    "source": "Custom Dataset/source/013.jpg",
+    "target": "Custom Dataset/target/013.jpg",
+    "instruction": "Improve the environment and clean the area, add lights and plants.",
+    "instruction_language": "en",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "013_ar",
+    "source": "Custom Dataset/source/013.jpg",
+    "target": "Custom Dataset/target/013.jpg",
+    "instruction": "تحسين البيئة العامة وتنظيف المنطقة بالكامل، مع إضافة وحدات إنارة ونباتات لتجميل المشهد وتعزيز الإحساس بالأمان والحيوية في المكان",
+    "instruction_language": "ar",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "014_en",
+    "source": "Custom Dataset/source/014.jpg",
+    "target": "Custom Dataset/target/014.jpg",
+    "instruction": "Enhance the environment and clean the area, we should add a park and repaint the buildings in white.",
+    "instruction_language": "en",
+    "task_type": "Transform"
+  },
+  {
+    "key": "014_ar",
+    "source": "Custom Dataset/source/014.jpg",
+    "target": "Custom Dataset/target/014.jpg",
+    "instruction": "تحسين البيئة العامة وتنظيف المنطقة بالكامل، مع إنشاء حديقة تُضفي طابعًا جماليًا ومساحات خضراء للترفيه، بالإضافة إلى إعادة طلاء المباني باللون الأبيض لمنحها مظهرًا عصريًا ومشرقًا.",
+    "instruction_language": "ar",
+    "task_type": "Transform"
+  },
+  {
+    "key": "015_en",
+    "source": "Custom Dataset/source/015.jpg",
+    "target": "Custom Dataset/target/015.jpg",
+    "instruction": "Enhance the market and clean up the area.",
+    "instruction_language": "en",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "015_ar",
+    "source": "Custom Dataset/source/015.jpg",
+    "target": "Custom Dataset/target/015.jpg",
+    "instruction": "قم بتحسين البيئة وتنظيف المنطقة.",
+    "instruction_language": "ar",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "016_en",
+    "source": "Custom Dataset/source/016.jpg",
+    "target": "Custom Dataset/target/016.jpg",
+    "instruction": "Enhance the buildings to make them modern and clean the surrounding area. Additionally, consider adding a garden.",
+    "instruction_language": "en",
+    "task_type": "Transform"
+  },
+  {
+    "key": "016_ar",
+    "source": "Custom Dataset/source/016.jpg",
+    "target": "Custom Dataset/target/016.jpg",
+    "instruction": "تطوير المباني لإضفاء طابع عصري وحديث، مع تنظيف المنطقة المحيطة بالكامل، بالإضافة إلى دراسة إمكانية إضافة حديقة تُسهم في تحسين المشهد العام ورفع جودة البيئة العمرانية",
+    "instruction_language": "ar",
+    "task_type": "Transform"
+  },
+  {
+    "key": "017_en",
+    "source": "Custom Dataset/source/017.jpg",
+    "target": "Custom Dataset/target/017.jpg",
+    "instruction": "Transform this building into a villa in Egyptian style. Improve the surroundings and clean the area.",
+    "instruction_language": "en",
+    "task_type": "Transform"
+  },
+  {
+    "key": "017_ar",
+    "source": "Custom Dataset/source/017.jpg",
+    "target": "Custom Dataset/target/017.jpg",
+    "instruction": "تحويل هذا المبنى إلى فيلا بطراز مصري يجمع بين الأصالة والفخامة، مع تحسين البيئة المحيطة وتنظيف المنطقة بالكامل لخلق مساحة سكنية راقية ومتكاملة.",
+    "instruction_language": "ar",
+    "task_type": "Transform"
+  },
+  {
+    "key": "018_en",
+    "source": "Custom Dataset/source/018.jpg",
+    "target": "Custom Dataset/target/018.jpg",
+    "instruction": "Transform these buildings into a modern Egyptian style. Improve the surroundings and clean the area.",
+    "instruction_language": "en",
+    "task_type": "Transform"
+  },
+  {
+    "key": "018_ar",
+    "source": "Custom Dataset/source/018.jpg",
+    "target": "Custom Dataset/target/018.jpg",
+    "instruction": "إعادة تصميم المباني وفق الطراز المصري الحديث باستخدام عناصر معمارية محلية بأبعاد معاصرة، مع إضافة مسبح يعزز من الوظائف الترفيهية والجمالية للمكان. كما يشمل المشروع تنظيم وتحسين المشهد العام من خلال تنظيف المساحات المحيطة، وإعادة تنسيقها بما يعكس بيئة حضرية راقية ومتكاملة",
+    "instruction_language": "ar",
+    "task_type": "Transform"
+  },
+  {
+    "key": "019_en",
+    "source": "Custom Dataset/source/019.jpg",
+    "target": "Custom Dataset/target/019.jpg",
+    "instruction": "Transform these buildings into a modern Egyptian style. Improve the surroundings, add plants and clean the area.",
+    "instruction_language": "en",
+    "task_type": "Transform"
+  },
+  {
+    "key": "019_ar",
+    "source": "Custom Dataset/source/019.jpg",
+    "target": "Custom Dataset/target/019.jpg",
+    "instruction": "إعادة تصميم المباني وفق الطراز المصري الحديث باستخدام عناصر معمارية محلية بأبعاد معاصرة، مع إضافة مسبح يعزز من الوظائف الترفيهية والجمالية للمكان. كما يشمل المشروع تنظيم وتحسين المشهد العام من خلال تنظيف المساحات المحيطة، وإعادة تنسيقها بما يعكس بيئة حضرية راقية ومتكاملة",
+    "instruction_language": "ar",
+    "task_type": "Transform"
+  },
+  {
+    "key": "020_en",
+    "source": "Custom Dataset/source/020.jpg",
+    "target": "Custom Dataset/target/020.jpg",
+    "instruction": "Improve the environment and clean the area.",
+    "instruction_language": "en",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "020_ar",
+    "source": "Custom Dataset/source/020.jpg",
+    "target": "Custom Dataset/target/020.jpg",
+    "instruction": "قم بتحسين البيئة وتنظيف المنطقة.",
+    "instruction_language": "ar",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "021_en",
+    "source": "Custom Dataset/source/021.jpg",
+    "target": "Custom Dataset/target/021.jpg",
+    "instruction": "Transform these buildings and shops to give them a modern look. Improve the surrounding area and clean up the space.",
+    "instruction_language": "en",
+    "task_type": "Transform"
+  },
+  {
+    "key": "021_ar",
+    "source": "Custom Dataset/source/021.jpg",
+    "target": "Custom Dataset/target/021.jpg",
+    "instruction": "إعادة تصميم وتحويله إلى مجمع تجاري حديث يضم مساحات مخصصة للمحال والخدمات، مع إنشاء نافورة في المركز تضيف عنصرًا بصريًا جذابًا وتعزز من تجربة الزوار",
+    "instruction_language": "ar",
+    "task_type": "Transform"
+  },
+  {
+    "key": "022_en",
+    "source": "Custom Dataset/source/022.jpg",
+    "target": "Custom Dataset/target/022.jpg",
+    "instruction": "Improve the environment and clean the area, add plants.",
+    "instruction_language": "en",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "022_ar",
+    "source": "Custom Dataset/source/022.jpg",
+    "target": "Custom Dataset/target/022.jpg",
+    "instruction": "قم بتحسين البيئة وتنظيف المنطقة.",
+    "instruction_language": "ar",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "023_en",
+    "source": "Custom Dataset/source/023.jpg",
+    "target": "Custom Dataset/target/023.jpg",
+    "instruction": "Improve the environment and clean the area, add plants.",
+    "instruction_language": "en",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "023_ar",
+    "source": "Custom Dataset/source/023.jpg",
+    "target": "Custom Dataset/target/023.jpg",
+    "instruction": "قم بتحسين البيئة وتنظيف المنطقة.",
+    "instruction_language": "ar",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "024_en",
+    "source": "Custom Dataset/source/024.jpg",
+    "target": "Custom Dataset/target/024.jpg",
+    "instruction": "Revitalize these buildings and alleys to give them a modern look. Enhance the surrounding area and clean up the space.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "024_ar",
+    "source": "Custom Dataset/source/024.jpg",
+    "target": "Custom Dataset/target/024.jpg",
+    "instruction": "تجديد هذه المباني والأزقة لإضفاء مظهر عصري يعكس الطابع الحديث، مع تحسين البيئة المحيطة وتنظيف المنطقة بالكامل لخلق مساحة حضرية متناسقة وجذابة",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "025_en",
+    "source": "Custom Dataset/source/025.jpg",
+    "target": "Custom Dataset/target/025.jpg",
+    "instruction": "Transform these buildings and shops to give them a modern look. Improve the surrounding area and clean up the space, add lights",
+    "instruction_language": "en",
+    "task_type": "Transform"
+  },
+  {
+    "key": "025_ar",
+    "source": "Custom Dataset/source/025.jpg",
+    "target": "Custom Dataset/target/025.jpg",
+    "instruction": "إعادة تأهيل المباني القائمة من خلال دمج محال تجارية حديثة ضمن التصميم العام لإبراز مظهر عصري يتماشى مع احتياجات السوق والمجتمع. كما يتضمن المشروع تطوير وتحسين المشهد الحضري المحيط عبر التنظيف الشامل، وتنسيق المساحات المفتوحة لخلق بيئة حيوية ومتوازنة تدعم الأنشطة التجارية وتُعزّز من جودة الحياة",
+    "instruction_language": "ar",
+    "task_type": "Transform"
+  },
+  {
+    "key": "026_en",
+    "source": "Custom Dataset/source/026.jpg",
+    "target": "Custom Dataset/target/026.jpg",
+    "instruction": "Transform these buildings and shops to give them a modern look. Improve the surrounding area and clean up the space, add plants.",
+    "instruction_language": "en",
+    "task_type": "Transform"
+  },
+  {
+    "key": "026_ar",
+    "source": "Custom Dataset/source/026jpg",
+    "target": "Custom Dataset/target/026jpg",
+    "instruction": "إعادة تأهيل المباني القائمة من خلال دمج محال تجارية حديثة ضمن التصميم العام لإبراز مظهر عصري يتماشى مع احتياجات السوق والمجتمع. كما يتضمن المشروع تطوير وتحسين المشهد الحضري المحيط عبر التنظيف الشامل، وتنسيق المساحات المفتوحة لخلق بيئة حيوية ومتوازنة تدعم الأنشطة التجارية وتُعزّز من جودة الحياة",
+    "instruction_language": "ar",
+    "task_type": "Transform"
+  },
+  {
+    "key": "027en",
+    "source": "Custom Dataset/source/027.jpg",
+    "target": "Custom Dataset/target/027.jpg",
+    "instruction": "Revitalize these buildings and alleys to give them a modern look. Enhance the surrounding area and clean up the space.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "027_ar",
+    "source": "Custom Dataset/source/027.jpg",
+    "target": "Custom Dataset/target/027.jpg",
+    "instruction": "إعادة تصميم الزقاق وتحويله إلى مجمع تجاري حديث يضم مساحات مخصصة للمحال والخدمات، مع إنشاء نافورة في المركز تضيف عنصرًا بصريًا جذابًا وتعزز من تجربة الزوار",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "028_en",
+    "source": "Custom Dataset/source/028.jpg",
+    "target": "Custom Dataset/target/028.jpg",
+    "instruction": "Transform the space into a clinic by improving the environment and cleaning the area.",
+    "instruction_language": "en",
+    "task_type": "Transform"
+  },
+  {
+    "key": "028_ar",
+    "source": "Custom Dataset/source/028.jpg",
+    "target": "Custom Dataset/target/028.jpg",
+    "instruction": "تحويل المساحة إلى عيادة من خلال تحسين البيئة المحيطة وتنظيف المنطقة بالكامل، بما يضمن توفير بيئة صحية وآمنة للمرضى والزوار.",
+    "instruction_language": "ar",
+    "task_type": "Transform"
+  },
+  {
+    "key": "029_en",
+    "source": "Custom Dataset/source/029.jpg",
+    "target": "Custom Dataset/target/029.jpg",
+    "instruction": "Transform these buildings into a modern Egyptian style, add green space and path. Improve the surroundings and clean the area.",
+    "instruction_language": "en",
+    "task_type": "Transform"
+  },
+  {
+    "key": "020_ar",
+    "source": "Custom Dataset/source/029.jpg",
+    "target": "Custom Dataset/target/029.jpg",
+    "instruction": "إعادة تصميم المباني وفق الطراز المصري الحديث باستخدام عناصر معمارية محلية بأبعاد معاصرة، مع إضافة مسبح يعزز من الوظائف الترفيهية والجمالية للمكان. كما يشمل المشروع تنظيم وتحسين المشهد العام من خلال تنظيف المساحات المحيطة، وإعادة تنسيقها بما يعكس بيئة حضرية راقية ومتكاملة",
+    "instruction_language": "ar",
+    "task_type": "Transform"
+  },
+  {
+    "key": "030_en",
+    "source": "Custom Dataset/source/030.jpg",
+    "target": "Custom Dataset/target/030.jpg",
+    "instruction": "Transform these buildings into a modern Egyptian style. Improve the surroundings and clean the area, add plants.",
+    "instruction_language": "en",
+    "task_type": "Transform"
+  },
+  {
+    "key": "030_ar",
+    "source": "Custom Dataset/source/030.jpg",
+    "target": "Custom Dataset/target/030.jpg",
+    "instruction": "إعادة تصميم المباني وفق الطراز المصري الحديث باستخدام عناصر معمارية محلية بأبعاد معاصرة، مع إضافة مسبح يعزز من الوظائف الترفيهية والجمالية للمكان. كما يشمل المشروع تنظيم وتحسين المشهد العام من خلال تنظيف المساحات المحيطة، وإعادة تنسيقها بما يعكس بيئة حضرية راقية ومتكاملة",
+    "instruction_language": "ar",
+    "task_type": "Transform"
+  },
+  {
+    "key": "031_en",
+    "source": "Custom Dataset/source/031.jpg",
+    "target": "Custom Dataset/target/031.jpg",
+    "instruction": "Transform these buildings and add shops, to give them a modern look. Improve the surrounding area and clean up the space.",
+    "instruction_language": "en",
+    "task_type": "Transform"
+  },
+  {
+    "key": "031_ar",
+    "source": "Custom Dataset/source/031.jpg",
+    "target": "Custom Dataset/target/031.jpg",
+    "instruction": "إعادة تأهيل المباني القائمة من خلال دمج محال تجارية حديثة ضمن التصميم العام لإبراز مظهر عصري يتماشى مع احتياجات السوق والمجتمع. كما يتضمن المشروع تطوير وتحسين المشهد الحضري المحيط عبر التنظيف الشامل، وتنسيق المساحات المفتوحة لخلق بيئة حيوية ومتوازنة تدعم الأنشطة التجارية وتُعزّز من جودة الحياة",
+    "instruction_language": "ar",
+    "task_type": "Transform"
+  },
+  {
+    "key": "032_en",
+    "source": "Custom Dataset/source/032.jpg",
+    "target": "Custom Dataset/target/032.jpg",
+    "instruction": "Transform the place into a park and add a car charger. Improve the environment and clean up the area.",
+    "instruction_language": "en",
+    "task_type": "Transform"
+  },
+  {
+    "key": "032_ar",
+    "source": "Custom Dataset/source/032.jpg",
+    "target": "Custom Dataset/target/032.jpg",
+    "instruction": "تحويل الموقع إلى حديقة عامة مزوّدة بشاحن سيارات كهربائية، مع تحسين البيئة المحيطة وتنظيف المنطقة بالكامل، لخلق مساحة خضراء صديقة للبيئة تلبي احتياجات المجتمع المعاصر.",
+    "instruction_language": "ar",
+    "task_type": "Transform"
+  },
+  {
+  "key": "033_en",
+  "source": "Custom Dataset/source/033.jpg",
+  "target": "Custom Dataset/target/033.jpg",
+  "instruction": "Transform place into park, Improve the environment and clean the area.",
+  "instruction_language": "en",
+  "task_type": "Transform"
+},
+{
+  "key": "033_ar",
+  "source": "Custom Dataset/source/033.jpg",
+  "target": "Custom Dataset/target/033.jpg",
+  "instruction": "إعادة تأهيل الموقع وتحويله إلى حديقة ترفيهية تحتوي على مساحات خضراء وممرات مشاة ومناطق جلوس، مع تحسين البيئة العامة من خلال إزالة النفايات وتنظيف المنطقة. يهدف المشروع إلى توفير مساحة مفتوحة صديقة للبيئة تُعزّز من جمال المشهد الحضري وتشجّع على التفاعل الاجتماعي",
+  "instruction_language": "ar",
+  "task_type": "Transform"
+},
+{
+  "key": "034_en",
+  "source": "Custom Dataset/source/034.jpg",
+  "target": "Custom Dataset/target/034.jpg",
+  "instruction": "Revitalize these buildings and alleys to give them a modern look. Enhance the surrounding area and clean up the space, add plants.",
+  "instruction_language": "en",
+  "task_type": "Revitalize"
+},
+{
+  "key": "034_ar",
+  "source": "Custom Dataset/source/034.jpg",
+  "target": "Custom Dataset/target/034.jpg",
+  "instruction": "إعادة تصميم الزقاق وتحويله إلى مجمع تجاري حديث يضم مساحات مخصصة للمحال والخدمات، مع إنشاء نافورة في المركز تضيف عنصرًا بصريًا جذابًا وتعزز من تجربة الزوار",
+  "instruction_language": "ar",
+  "task_type": "Revitalize"
+},
+{
+  "key": "035_en",
+  "source": "Custom Dataset/source/035.jpg",
+  "target": "Custom Dataset/target/035.jpg",
+  "instruction": "Revitalize these buildings and alleys to give them a modern look. Enhance the surrounding area and clean up the space, add plants.",
+  "instruction_language": "en",
+  "task_type": "Revitalize"
+},
+{
+  "key": "035_ar",
+  "source": "Custom Dataset/source/035.jpg",
+  "target": "Custom Dataset/target/035.jpg",
+  "instruction": "إعادة تصميم الزقاق وتحويله إلى مجمع تجاري حديث يضم مساحات مخصصة للمحال والخدمات، مع إنشاء نافورة في المركز تضيف عنصرًا بصريًا جذابًا وتعزز من تجربة الزوار",
+  "instruction_language": "ar",
+  "task_type": "Revitalize"
+},
+{
+  "key": "036_en",
+  "source": "Custom Dataset/source/036.jpg",
+  "target": "Custom Dataset/target/036.jpg",
+  "instruction": "Transform these buildings into a modern Egyptian style and add pool. Improve the surroundings and clean the area.",
+  "instruction_language": "en",
+  "task_type": "Transform"
+},
+{
+  "key": "036_ar",
+  "source": "Custom Dataset/source/036.jpg",
+  "target": "Custom Dataset/target/036.jpg",
+  "instruction": "إعادة تصميم المباني وفق الطراز المصري الحديث باستخدام عناصر معمارية محلية بأبعاد معاصرة، مع إضافة مسبح يعزز من الوظائف الترفيهية والجمالية للمكان. كما يشمل المشروع تنظيم وتحسين المشهد العام من خلال تنظيف المساحات المحيطة، وإعادة تنسيقها بما يعكس بيئة حضرية راقية ومتكاملة.",
+  "instruction_language": "ar",
+  "task_type": "Transform"
+},
+{
+  "key": "037_en",
+  "source": "Custom Dataset/source/037.jpg",
+  "target": "Custom Dataset/target/037.jpg",
+  "instruction": "Transform these buildings into a modern University Egyptian style. Improve the surroundings and clean the area.",
+  "instruction_language": "en",
+  "task_type": "Transform"
+},
+{
+  "key": "037_ar",
+  "source": "Custom Dataset/source/037.jpg",
+  "target": "Custom Dataset/target/037.jpg",
+  "instruction": "تحويل هذه المباني إلى جامعة حديثة بطراز مصري معاصر يجمع بين الهوية الثقافية والتقنيات الحديثة. يشمل المشروع تحسين البيئة المحيطة وتنظيف المنطقة بالكامل لخلق مساحة تعليمية متكاملة وملهمة.",
+  "instruction_language": "ar",
+  "task_type": "Transform"
+},
+{
+  "key": "038_en",
+  "source": "Custom Dataset/source/038.jpg",
+  "target": "Custom Dataset/target/038.jpg",
+  "instruction": "Modernize the market by installing solar lights and enhancing the area with plants. Clean up the space to create a more inviting environment.",
+  "instruction_language": "en",
+  "task_type": "Transform"
+},
+{
+  "key": "038_ar",
+  "source": "Custom Dataset/source/038.jpg",
+  "target": "Custom Dataset/target/038.jpg",
+  "instruction": "تحديث السوق من خلال تركيب وحدات إنارة تعمل بالطاقة الشمسية، وتعزيز المنطقة المحيطة بإضافة النباتات والعناصر الطبيعية. كما يشمل المشروع تنظيف المساحة بالكامل لخلق بيئة أكثر جاذبية وراحة للزوار.",
+  "instruction_language": "ar",
+  "task_type": "Transform"
+},
+{
+  "key": "039_en",
+  "source": "Custom Dataset/source/039.jpg",
+  "target": "Custom Dataset/target/039.jpg",
+  "instruction": "Modernize the market by enhancing the area.",
+  "instruction_language": "en",
+  "task_type": "Transform"
+},
+{
+  "key": "039_ar",
+  "source": "Custom Dataset/source/039.jpg",
+  "target": "Custom Dataset/target/039.jpg",
+  "instruction": "تجديد السوق وإضافة وحدات إنارة حديثة لإضفاء طابع عصري وجاذب. يشمل المشروع أيضًا تحسين البيئة المحيطة وتنظيف المساحة بالكامل، مع إضافة عناصر نباتية لتعزيز الجمال الطبيعي ورفع جودة المكان",
+  "instruction_language": "ar",
+  "task_type": "Transform"
+},
+  {
+    "key": "040_en",
+    "source": "Custom Dataset/source/040.jpg",
+    "target": "Custom Dataset/target/040.jpg",
+    "instruction": "Transform these buildings into a modern Egyptian style. Improve the surroundings and clean the area.",
+    "instruction_language": "en",
+    "task_type": "Transform"
+  },
+  {
+    "key": "040_ar",
+    "source": "Custom Dataset/source/040.jpg",
+    "target": "Custom Dataset/target/040.jpg",
+    "instruction": "تحويل هذه المباني إلى طراز مصري حديث يجمع بين الأصالة والمعاصرة، مع تحسين البيئة المحيطة وتنظيف المنطقة لخلق مشهد عمراني متكامل وجذاب",
+    "instruction_language": "ar",
+    "task_type": "Transform"
+  },
+{
+    "key": "041_en",
+    "source": "Custom Dataset/source/041.jpg",
+    "target": "Custom Dataset/target/041.jpg",
+    "instruction": "Improve the house and clean the area.",
+    "instruction_language": "en",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "041_ar",
+    "source": "Custom Dataset/source/041.jpg",
+    "target": "Custom Dataset/target/041.jpg",
+    "instruction": "قم بتحسين البيئة وتنظيف المنطقة.",
+    "instruction_language": "ar",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "042_en",
+    "source": "Custom Dataset/source/042.jpg",
+    "target": "Custom Dataset/target/042.jpg",
+    "instruction": "Revitalize these buildings and alleys to give them a modern look. Enhance the surrounding area and clean up the space, add plants.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "042_ar",
+    "source": "Custom Dataset/source/042.jpg",
+    "target": "Custom Dataset/target/042.jpg",
+    "instruction": "إعادة تصميم الزقاق وتحويله إلى مجمع تجاري حديث يضم مساحات مخصصة للمحال والخدمات، مع إنشاء نافورة في المركز تضيف عنصرًا بصريًا جذابًا وتعزز من تجربة الزوار",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "043_en",
+    "source": "Custom Dataset/source/043.jpg",
+    "target": "Custom Dataset/target/043.jpg",
+    "instruction": "Revitalize the market and add lights, to give them a modern look. Enhance the surrounding area and clean up the space, add plants.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "043_ar",
+    "source": "Custom Dataset/source/043.jpg",
+    "target": "Custom Dataset/target/043.jpg",
+    "instruction": "تجديد السوق وإضافة وحدات إنارة حديثة لإضفاء طابع عصري وجاذب. يشمل المشروع أيضًا تحسين البيئة المحيطة وتنظيف المساحة بالكامل، مع إضافة عناصر نباتية لتعزيز الجمال الطبيعي ورفع جودة المكان.",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "044_en",
+    "source": "Custom Dataset/source/044.jpg",
+    "target": "Custom Dataset/target/044.jpg",
+    "instruction": "Transform these buildings into a modern Egyptian style. Improve the surroundings and clean the area.",
+    "instruction_language": "en",
+    "task_type": "Transform"
+  },
+  {
+    "key": "044_ar",
+    "source": "Custom Dataset/source/044.jpg",
+    "target": "Custom Dataset/target/044.jpg",
+    "instruction": "تحويل هذه المباني إلى طراز مصري حديث يجمع بين الأصالة والمعاصرة، مع تحسين البيئة المحيطة وتنظيف المنطقة لخلق مشهد عمراني متكامل وجذاب",
+    "instruction_language": "ar",
+    "task_type": "Transform"
+  },
+  {
+    "key": "045_en",
+    "source": "Custom Dataset/source/045.jpg",
+    "target": "Custom Dataset/target/045.jpg",
+    "instruction": "Transform these buildings into a modern Egyptian style. Improve the surroundings and clean the area.",
+    "instruction_language": "en",
+    "task_type": "Transform"
+  },
+  {
+    "key": "045_ar",
+    "source": "Custom Dataset/source/045.jpg",
+    "target": "Custom Dataset/target/045.jpg",
+    "instruction": "تحويل هذه المباني إلى طراز مصري حديث يجمع بين الأصالة والمعاصرة، مع تحسين البيئة المحيطة وتنظيف المنطقة لخلق مشهد عمراني متكامل وجذاب",
+    "instruction_language": "ar",
+    "task_type": "Transform"
+  },
+  {
+    "key": "046_en",
+    "source": "Custom Dataset/source/046.jpg",
+    "target": "Custom Dataset/target/046.jpg",
+    "instruction": "Transform these buildings into a modern Egyptian style. Improve the surroundings and clean the area.",
+    "instruction_language": "en",
+    "task_type": "Transform"
+  },
+  {
+    "key": "046_ar",
+    "source": "Custom Dataset/source/046.jpg",
+    "target": "Custom Dataset/target/046.jpg",
+    "instruction": "تحويل هذه المباني إلى طراز مصري حديث يجمع بين الأصالة والمعاصرة، مع تحسين البيئة المحيطة وتنظيف المنطقة لخلق مشهد عمراني متكامل وجذاب",
+    "instruction_language": "ar",
+    "task_type": "Transform"
+  },
+  {
+    "key": "047_en",
+    "source": "Custom Dataset/source/047.jpg",
+    "target": "Custom Dataset/target/047.jpg",
+    "instruction": "Revitalize these buildings and alleys to create a modern appearance. Improve the surrounding area by cleaning it up and adding plants. It's time to enhance the space and bring it to life.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "047_ar",
+    "source": "Custom Dataset/source/047.jpg",
+    "target": "Custom Dataset/target/047.jpg",
+    "instruction": "إعادة تصميم الزقاق وتحويله إلى مجمع تجاري حديث يضم مساحات مخصصة للمحال والخدمات، مع إنشاء نافورة في المركز تضيف عنصرًا بصريًا جذابًا وتعزز من تجربة الزوار",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "048_en",
+    "source": "Custom Dataset/source/048.jpg",
+    "target": "Custom Dataset/target/048.jpg",
+    "instruction": "Revitalize the buildings with wheelchair-accessible slides and a modern look. Clean up the area and add plants to enhance the space.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "048_ar",
+    "source": "Custom Dataset/source/048.jpg",
+    "target": "Custom Dataset/target/048.jpg",
+    "instruction": "تجديد المباني بإضفاء طابع عصري وتصميم منحدرات مخصصة لذوي الاحتياجات الخاصة لضمان سهولة الوصول. يشمل المشروع أيضًا تنظيف المنطقة وإضافة عناصر نباتية لتجميل المساحة وتحسين جودة البيئة المحيطة",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "049_en",
+    "source": "Custom Dataset/source/049.jpg",
+    "target": "Custom Dataset/target/049.jpg",
+    "instruction": "Clear the area, add a road, install lights, and incorporate greenery to enhance the surroundings and improve the buildings.",
+    "instruction_language": "en",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "049_ar",
+    "source": "Custom Dataset/source/049.jpg",
+    "target": "Custom Dataset/target/049.jpg",
+    "instruction": "إخلاء المنطقة وتنظيمها، مع إنشاء طريق، وتركيب وحدات إنارة، وإضافة عناصر خضراء لتجميل البيئة المحيطة، بما يسهم في تحسين المباني وتعزيز المشهد الحضري بشكل عام",
+    "instruction_language": "ar",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "050_en",
+    "source": "Custom Dataset/source/050.jpg",
+    "target": "Custom Dataset/target/050.jpg",
+    "instruction": "remove the garbage, install additional garbage bins, and thoroughly clean the area.",
+    "instruction_language": "en",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "050_ar",
+    "source": "Custom Dataset/source/050.jpg",
+    "target": "Custom Dataset/target/050.jpg",
+    "instruction": "إزالة النفايات الموجودة، وتركيب حاويات نفايات إضافية، وتنظيف المنطقة بشكل شامل لضمان بيئة نظيفة ومنظمة",
+    "instruction_language": "ar",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "051_en",
+    "source": "Custom Dataset/source/051.jpg",
+    "target": "Custom Dataset/target/051.jpg",
+    "instruction": "Transform the building into a modern university and add a park.",
+    "instruction_language": "en",
+    "task_type": "Transform"
+  },
+  {
+    "key": "051_ar",
+    "source": "Custom Dataset/source/051.jpg",
+    "target": "Custom Dataset/target/051.jpg",
+    "instruction": "إعادة تأهيل المبنى ليصبح جامعة عصرية مزودة بمرافق تعليمية متطورة، مع إنشاء حديقة محيطة توفّر مساحات خضراء مفتوحة تعزز من جودة الحياة الجامعية وتدعم الأنشطة الأكاديمية والاجتماعية",
+    "instruction_language": "ar",
+    "task_type": "Transform"
+  },
+  {
+    "key": "052_en",
+    "source": "Custom Dataset/source/052.jpg",
+    "target": "Custom Dataset/target/052.jpg",
+    "instruction": "Revitalize the market and give them a modern look. Enhance the surrounding area and clean up the space.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "052_ar",
+    "source": "Custom Dataset/source/052.jpg",
+    "target": "Custom Dataset/target/052.jpg",
+    "instruction": "إعادة إحياء السوق من خلال الترميم وإضافة وحدات إضاءة حديثة. تحسين المنطقة المحيطة وتنظيف المساحات لخلق بيئة أكثر جاذبية وتنظيمًا.",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "053_en",
+    "source": "Custom Dataset/source/053.jpg",
+    "target": "Custom Dataset/target/053.jpg",
+    "instruction": "removing the garbage, add road and thoroughly cleaning the area.",
+    "instruction_language": "en",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "053_ar",
+    "source": "Custom Dataset/source/053.jpg",
+    "target": "Custom Dataset/target/053.jpg",
+    "instruction": "إزالة جميع المخلفات وتنظيف المنطقة بالكامل، مع بعض العناصر الخضراء لإضفاء لمسة جمالية وتعزيز الطابع البيئي للمكان",
+    "instruction_language": "ar",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "054_en",
+    "source": "Custom Dataset/source/054.jpg",
+    "target": "Custom Dataset/target/054.jpg",
+    "instruction": "Please remove the garbage, add plants, apply fresh paint, and thoroughly clean the area.",
+    "instruction_language": "en",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "054_ar",
+    "source": "Custom Dataset/source/054.jpg",
+    "target": "Custom Dataset/target/054.jpg",
+    "instruction": "إزالة جميع المخلفات وتنظيف المنطقة بالكامل، مع بعض العناصر الخضراء لإضفاء لمسة جمالية وتعزيز الطابع البيئي للمكان",
+    "instruction_language": "ar",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "055_en",
+    "source": "Custom Dataset/source/055.jpg",
+    "target": "Custom Dataset/target/055.jpg",
+    "instruction": "remove the garbage, add light, apply fresh paint, and thoroughly clean the area, install shop.",
+    "instruction_language": "en",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "055_ar",
+    "source": "Custom Dataset/source/055.jpg",
+    "target": "Custom Dataset/target/055.jpg",
+    "instruction": "إزالة النفايات وتحسين البيئة العامة من خلال تنظيف المنطقة، مع إضافة محال صغيرة تُسهم في تنشيط الحركة التجارية وتعزيز الاستخدام المجتمعي للمكان",
+    "instruction_language": "ar",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "056_en",
+    "source": "Custom Dataset/source/056.jpg",
+    "target": "Custom Dataset/target/056.jpg",
+    "instruction": "Revitalize the buildings and add road, lights, to give them a modern look. Enhance the surrounding area and clean up the space.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "056_ar",
+    "source": "Custom Dataset/source/056.jpg",
+    "target": "Custom Dataset/target/056.jpg",
+    "instruction": "تجديد المباني وتحديث المحال التجارية بما يعكس الطابع العصري، مع إنشاء طرق مُمهدة وإضافة وحدات إنارة حديثة لإضفاء مظهر حضري متطور. كما يشمل المشروع تحسين المنطقة المحيطة وتنظيفها، بما يسهم في خلق بيئة منظمة وجاذبة",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "057_en",
+    "source": "Custom Dataset/source/057.jpg",
+    "target": "Custom Dataset/target/057.jpg",
+    "instruction": "Revitalize the buildings and add road, lights, to give them a modern look. Enhance the surrounding area and clean up the space, add plants",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "057_ar",
+    "source": "Custom Dataset/source/057.jpg",
+    "target": "Custom Dataset/target/057.jpg",
+    "instruction": "تجديد المباني وتحديث المحال التجارية بما يعكس الطابع العصري، مع إنشاء طرق مُمهدة وإضافة وحدات إنارة حديثة لإضفاء مظهر حضري متطور. كما يشمل المشروع تحسين المنطقة المحيطة وتنظيفها، بما يسهم في خلق بيئة منظمة وجاذبة",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "058_en",
+    "source": "Custom Dataset/source/058.jpg",
+    "target": "Custom Dataset/target/058.jpg",
+    "instruction": "Revitalize the buildings and add road, lights, to give them a modern look. Enhance the surrounding area and clean up the space.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "058_ar",
+    "source": "Custom Dataset/source/058.jpg",
+    "target": "Custom Dataset/target/058.jpg",
+    "instruction": "تجديد المباني وتحديث المحال التجارية بما يعكس الطابع العصري، مع إنشاء طرق مُمهدة وإضافة وحدات إنارة حديثة لإضفاء مظهر حضري متطور. كما يشمل المشروع تحسين المنطقة المحيطة وتنظيفها، بما يسهم في خلق بيئة منظمة وجاذبة",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "059_en",
+    "source": "Custom Dataset/source/059.jpg",
+    "target": "Custom Dataset/target/059.jpg",
+    "instruction": "Revitalize the buildings and add road, to give them a Eygption style. Enhance the surrounding area and clean up the space.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "059_ar",
+    "source": "Custom Dataset/source/059.jpg",
+    "target": "Custom Dataset/target/059.jpg",
+    "instruction": "تجديد المباني بطابع عربي أصيل، مع إضافة طرق حديثة لإضفاء لمسة عصرية. تحسين المنطقة المحيطة وتنظيفها لخلق بيئة متناسقة تجمع بين الأصالة والحداثة",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "060_en",
+    "source": "Custom Dataset/source/060.jpg",
+    "target": "Custom Dataset/target/060.jpg",
+    "instruction": "Remove garbages, Revitalize the buildings and add road, lights, to give them a modern look. Enhance the surrounding area and clean up the space.",
+    "instruction_language": "en",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "060_ar",
+    "source": "Custom Dataset/source/060.jpg",
+    "target": "Custom Dataset/target/060.jpg",
+    "instruction": "تجديد المباني وتحديث المحال التجارية بما يتماشى مع الطابع العصري، مع إنشاء طرق منظمة وإضافة إنارة حديثة لخلق مشهد حضري معاصر. يشمل المشروع أيضًا تحسين البيئة المحيطة وتنظيف المساحات لتحقيق بيئة أكثر تنظيمًا وجاذبية.",
+    "instruction_language": "ar",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "061_en",
+    "source": "Custom Dataset/source/061.jpg",
+    "target": "Custom Dataset/target/061.jpg",
+    "instruction": "Revitalize the buildings and add road, lights, to give them a modern look. Enhance the surrounding area and clean up the space, add plants",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "061_ar",
+    "source": "Custom Dataset/source/061.jpg",
+    "target": "Custom Dataset/target/061.jpg",
+    "instruction": "تجديد المباني وتحديث المحال التجارية بما يتماشى مع الطابع العصري، مع إنشاء طرق منظمة وإضافة إنارة حديثة لخلق مشهد حضري معاصر. يشمل المشروع أيضًا تحسين البيئة المحيطة وتنظيف المساحات لتحقيق بيئة أكثر تنظيمًا وجاذبية.",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "062_en",
+    "source": "Custom Dataset/source/062.jpg",
+    "target": "Custom Dataset/target/062.jpg",
+    "instruction": "Revitalize the buildings, modernize the shops, and add roads and lights for a contemporary look. Enhance the surrounding area and clean up the space.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "062_ar",
+    "source": "Custom Dataset/source/062.jpg",
+    "target": "Custom Dataset/target/062.jpg",
+    "instruction": "تجديد المباني وتحديث المحال التجارية بما يتماشى مع الطابع العصري، مع إنشاء طرق منظمة وإضافة إنارة حديثة لخلق مشهد حضري معاصر. يشمل المشروع أيضًا تحسين البيئة المحيطة وتنظيف المساحات لتحقيق بيئة أكثر تنظيمًا وجاذبية.",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "063_en",
+    "source": "Custom Dataset/source/063.jpg",
+    "target": "Custom Dataset/target/063.jpg",
+    "instruction": "Revitalize the buildings, modernize the shops, and add lights for a contemporary look. Enhance the surrounding area and clean up the space.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "063_ar",
+    "source": "Custom Dataset/source/063.jpg",
+    "target": "Custom Dataset/target/063.jpg",
+    "instruction": "تجديد المباني وتحديث المحال التجارية بما يتماشى مع الطابع العصري، مع إضافة إنارة حديثة لخلق مشهد حضري معاصر. يشمل المشروع أيضًا تحسين البيئة المحيطة وتنظيف المساحات لتحقيق بيئة أكثر تنظيمًا وجاذبية.",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "064_en",
+    "source": "Custom Dataset/source/064.jpg",
+    "target": "Custom Dataset/target/064.jpg",
+    "instruction": "Improve the old buildings, Enhance the surrounding area and clean up the space.",
+    "instruction_language": "en",
+    "task_type": "Transform"
+  },
+  {
+    "key": "064_ar",
+    "source": "Custom Dataset/source/064.jpg",
+    "target": "Custom Dataset/target/064.jpg",
+    "instruction": "تحسين المباني القديمة من خلال الترميم وإعادة التأهيل، مع تعزيز المنطقة المحيطة وتنظيف المساحات لخلق بيئة أكثر تنظيمًا وجاذبية",
+    "instruction_language": "ar",
+    "task_type": "Transform"
+  },
+  {
+    "key": "065_en",
+    "source": "Custom Dataset/source/065.jpg",
+    "target": "Custom Dataset/target/065.jpg",
+    "instruction": "Revitalize the buildings, modernize the shops, and add roads and lights for a contemporary look. Enhance the surrounding area and clean up the space.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "065_ar",
+    "source": "Custom Dataset/source/065.jpg",
+    "target": "Custom Dataset/target/065.jpg",
+    "instruction": "تجديد المباني وتحديث المحال التجارية بما يعكس الطابع العصري، مع إنشاء طرق مُمهدة وإضافة وحدات إنارة حديثة لإضفاء مظهر حضري متطور. كما يشمل المشروع تحسين المنطقة المحيطة وتنظيفها، بما يسهم في خلق بيئة منظمة وجاذبة",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "066_en",
+    "source": "Custom Dataset/source/066.jpg",
+    "target": "Custom Dataset/target/066.jpg",
+    "instruction": "Revitalize the factory, modernize the facility, and add roads for a contemporary look. Enhance the surrounding area and clean up the space.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "066_ar",
+    "source": "Custom Dataset/source/066.jpg",
+    "target": "Custom Dataset/target/066.jpg",
+    "instruction": "تجديد المصنع وتحديث المرافق بما يتماشى مع المعايير العصرية، مع إنشاء طرق حديثة لتعزيز الطابع الصناعي المعاصر. كما يشمل المشروع تحسين المنطقة المحيطة وتنظيفها لخلق بيئة عمل منظمة وآمنة.",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "067_en",
+    "source": "Custom Dataset/source/067.jpg",
+    "target": "Custom Dataset/target/067.jpg",
+    "instruction": "Revitalize the buildings, and add roads and lights for a contemporary look. Enhance the surrounding area and clean up the space, add plants.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "067_ar",
+    "source": "Custom Dataset/source/067.jpg",
+    "target": "Custom Dataset/target/067.jpg",
+    "instruction": "تجديد المباني  بما يعكس الطابع العصري، مع إنشاء طرق مُمهدة وإضافة وحدات إنارة حديثة لإضفاء مظهر حضري متطور. كما يشمل المشروع تحسين المنطقة المحيطة وتنظيفها، بما يسهم في خلق بيئة منظمة وجاذبة",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "068_en",
+    "source": "Custom Dataset/source/068.jpg",
+    "target": "Custom Dataset/target/068.jpg",
+    "instruction": "Revitalize the buildings, modernize the shops, and add roads and lights for a contemporary look. Enhance the surrounding area and clean up the space, add plants",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "068_ar",
+    "source": "Custom Dataset/source/068.jpg",
+    "target": "Custom Dataset/target/068.jpg",
+    "instruction": "تجديد المباني وتحديث المحال التجارية بما يعكس الطابع العصري، مع إنشاء طرق مُمهدة وإضافة وحدات إنارة حديثة لإضفاء مظهر حضري متطور. كما يشمل المشروع تحسين المنطقة المحيطة وتنظيفها، بما يسهم في خلق بيئة منظمة وجاذبة",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "069_en",
+    "source": "Custom Dataset/source/069.jpg",
+    "target": "Custom Dataset/target/069.jpg",
+    "instruction": "Revitalize the buildings,and add lights for a contemporary look. Enhance the surrounding area and clean up the space.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "069_ar",
+    "source": "Custom Dataset/source/069.jpg",
+    "target": "Custom Dataset/target/069.jpg",
+    "instruction": "تجديد المباني بما يعكس الطابع العصري، مع إنشاء طرق مُمهدة وإضافة وحدات إنارة حديثة لإضفاء مظهر حضري متطور. كما يشمل المشروع تحسين المنطقة المحيطة وتنظيفها، بما يسهم في خلق بيئة منظمة وجاذبة",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "070_en",
+    "source": "Custom Dataset/source/070.jpg",
+    "target": "Custom Dataset/target/070.jpg",
+    "instruction": "Revitalize the buildings, and add roads and lights for a contemporary look. Enhance the surrounding area and clean up the space, add plants.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "070_ar",
+    "source": "Custom Dataset/source/070.jpg",
+    "target": "Custom Dataset/target/070.jpg",
+    "instruction": "تجديد المباني بما يعكس الطابع العصري، مع إنشاء طرق مُمهدة وإضافة وحدات إنارة حديثة لإضفاء مظهر حضري متطور. كما يشمل المشروع تحسين المنطقة المحيطة وتنظيفها، بما يسهم في خلق بيئة منظمة وجاذبة",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "071_en",
+    "source": "Custom Dataset/source/071.jpg",
+    "target": "Custom Dataset/target/071.jpg",
+    "instruction": "Revitalize the walls, enhance the surrounding area, and clean up the space by adding a garden.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "071_ar",
+    "source": "Custom Dataset/source/071.jpg",
+    "target": "Custom Dataset/target/071.jpg",
+    "instruction": "ترميم الجدران وإبراز عناصرها المعمارية، مع تحسين البيئة المحيطة من خلال التنظيف الشامل وتنسيق المساحات، وإضافة حديقة خضراء لخلق بيئة مستدامة وجذابة بصريًا",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "072_en",
+    "source": "Custom Dataset/source/072.jpg",
+    "target": "Custom Dataset/target/072.jpg",
+    "instruction": "Revitalize the buildings in Arabian style, adding roads and lighting for a modern touch. Enhance and clean the surrounding area.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "072_ar",
+    "source": "Custom Dataset/source/072.jpg",
+    "target": "Custom Dataset/target/072.jpg",
+    "instruction": "تجديد المباني بطابع عربي أصيل، مع إضافة طرق حديثة لإضفاء لمسة عصرية. تحسين المنطقة المحيطة وتنظيفها لخلق بيئة متناسقة تجمع بين الأصالة والحداثة",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "073_en",
+    "source": "Custom Dataset/source/073.jpg",
+    "target": "Custom Dataset/target/073.jpg",
+    "instruction": "Revitalize the buildings, modernize the shops, and add roads and lights for a contemporary look. Enhance the surrounding area and clean up the space.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "073_ar",
+    "source": "Custom Dataset/source/073.jpg",
+    "target": "Custom Dataset/target/073.jpg",
+    "instruction": "تجديد المباني وتحديث المحال التجارية بما يعكس الطابع العصري، مع إنشاء طرق مُمهدة وإضافة وحدات إنارة حديثة لإضفاء مظهر حضري متطور. كما يشمل المشروع تحسين المنطقة المحيطة وتنظيفها، بما يسهم في خلق بيئة منظمة وجاذبة",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "074_en",
+    "source": "Custom Dataset/source/074.jpg",
+    "target": "Custom Dataset/target/074.jpg",
+    "instruction": "Revitalize the buildings, add fresh paint. Enhance the surrounding area and clean up the space, add plants.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "074_ar",
+    "source": "Custom Dataset/source/074.jpg",
+    "target": "Custom Dataset/target/074.jpg",
+    "instruction": "تجديد المباني من خلال الترميم وإعادة الطلاء بألوان نابضة بالحياة. تحسين البيئة المحيطة عبر تنظيم المساحات، وإزالة التشوهات البصرية، وتنظيف المنطقة لإضفاء طابع حضري نظيف ومتجدد",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "075_en",
+    "source": "Custom Dataset/source/075.jpg",
+    "target": "Custom Dataset/target/075.jpg",
+    "instruction": "Revitalize the buildings, add fresh paint. Enhance the surrounding area and clean up the space.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "075_ar",
+    "source": "Custom Dataset/source/075.jpg",
+    "target": "Custom Dataset/target/075.jpg",
+    "instruction": "تجديد المباني من خلال الترميم وإعادة الطلاء بألوان نابضة بالحياة. تحسين البيئة المحيطة عبر تنظيم المساحات، وإزالة التشوهات البصرية، وتنظيف المنطقة لإضفاء طابع حضري نظيف ومتجدد",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "076_en",
+    "source": "Custom Dataset/source/076.jpg",
+    "target": "Custom Dataset/target/076.jpg",
+    "instruction": "remove any garbage and clean the area. Additionally, add a fountain and some greenery.",
+    "instruction_language": "en",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "076_ar",
+    "source": "Custom Dataset/source/076.jpg",
+    "target": "Custom Dataset/target/076.jpg",
+    "instruction": "إزالة جميع المخلفات وتنظيف المنطقة بالكامل، مع إضافة نافورة وبعض العناصر الخضراء لإضفاء لمسة جمالية وتعزيز الطابع البيئي للمكان.",
+    "instruction_language": "ar",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "077_en",
+    "source": "Custom Dataset/source/077.jpg",
+    "target": "Custom Dataset/target/077.jpg",
+    "instruction": "remove trash, Improve the environment and clean the area, add mini shops.",
+    "instruction_language": "en",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "077_ar",
+    "source": "Custom Dataset/source/077.jpg",
+    "target": "Custom Dataset/target/077.jpg",
+    "instruction": "إزالة النفايات وتحسين البيئة العامة من خلال تنظيف المنطقة، مع إضافة محال صغيرة تُسهم في تنشيط الحركة التجارية وتعزيز الاستخدام المجتمعي للمكان",
+    "instruction_language": "ar",
+    "task_type": "cleanup"
+  },
+  {
+    "key": "078_en",
+    "source": "Custom Dataset/source/078.jpg",
+    "target": "Custom Dataset/target/078.jpg",
+    "instruction": "Revitalize the buildings, modernize the shops, and add roads and lights for a contemporary look. Enhance the surrounding area and clean up the space, add plants.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "078_ar",
+    "source": "Custom Dataset/source/078.jpg",
+    "target": "Custom Dataset/target/078.jpg",
+    "instruction": "تجديد المباني وتحديث المحال التجارية بما يعكس الطابع العصري، مع إنشاء طرق مُمهدة وإضافة وحدات إنارة حديثة لإضفاء مظهر حضري متطور. كما يشمل المشروع تحسين المنطقة المحيطة وتنظيفها، بما يسهم في خلق بيئة منظمة وجاذبة",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "079_en",
+    "source": "Custom Dataset/source/079.jpg",
+    "target": "Custom Dataset/target/079.jpg",
+    "instruction": "Transform the area into a modern shopping mall.",
+    "instruction_language": "en",
+    "task_type": "Transform"
+  },
+  {
+    "key": "079_ar",
+    "source": "Custom Dataset/source/079.jpg",
+    "target": "Custom Dataset/target/079.jpg",
+    "instruction": "إعادة تصميم وتحويله إلى مجمع تجاري حديث يضم مساحات مخصصة للمحال والخدمات، مع إنشاء نافورة في المركز تضيف عنصرًا بصريًا جذابًا وتعزز من تجربة الزوار",
+    "instruction_language": "ar",
+    "task_type": "Transform"
+  },
+  {
+    "key": "080_en",
+    "source": "Custom Dataset/source/080.jpg",
+    "target": "Custom Dataset/target/080.jpg",
+    "instruction": "Revitalize the buildings, modernize the shops, and add roads and lights for a contemporary look. Enhance the surrounding area and clean up the space, add plants.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "080_ar",
+    "source": "Custom Dataset/source/080.jpg",
+    "target": "Custom Dataset/target/080.jpg",
+    "instruction": "تجديد المباني وتحديث المحال التجارية بما يعكس الطابع العصري، مع إنشاء طرق مُمهدة وإضافة وحدات إنارة حديثة لإضفاء مظهر حضري متطور. كما يشمل المشروع تحسين المنطقة المحيطة وتنظيفها، بما يسهم في خلق بيئة منظمة وجاذبة",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "081_en",
+    "source": "Custom Dataset/source/081.jpg",
+    "target": "Custom Dataset/target/081.jpg",
+    "instruction": "Revitalize the buildings, add fresh paint. Enhance the surrounding area and clean up the space",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "081_ar",
+    "source": "Custom Dataset/source/081.jpg",
+    "target": "Custom Dataset/target/081.jpg",
+    "instruction": "تجديد المباني من خلال الترميم وإعادة الطلاء بألوان نابضة بالحياة. تحسين البيئة المحيطة عبر تنظيم المساحات، وإزالة التشوهات البصرية، وتنظيف المنطقة لإضفاء طابع حضري نظيف ومتجدد",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "082_en",
+    "source": "Custom Dataset/source/082.jpg",
+    "target": "Custom Dataset/target/082.jpg",
+    "instruction": "Revitalize the buildings, modernize the shops, and add roads and lights for a contemporary look. Enhance the surrounding area and clean up the space.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "082_ar",
+    "source": "Custom Dataset/source/082.jpg",
+    "target": "Custom Dataset/target/082.jpg",
+    "instruction": "تجديد المباني وتحديث المحال التجارية بما يعكس الطابع العصري، مع إنشاء طرق مُمهدة وإضافة وحدات إنارة حديثة لإضفاء مظهر حضري متطور. كما يشمل المشروع تحسين المنطقة المحيطة وتنظيفها، بما يسهم في خلق بيئة منظمة وجاذبة",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "083_en",
+    "source": "Custom Dataset/source/083.jpg",
+    "target": "Custom Dataset/target/083.jpg",
+    "instruction": "Revitalize these buildings and create a modern appearance. Improve the surrounding area by cleaning it up and adding plants.  enhance the space and bring it to life.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "083_ar",
+    "source": "Custom Dataset/source/083.jpg",
+    "target": "Custom Dataset/target/083.jpg",
+    "instruction": "تجديد المباني  بما يعكس الطابع العصري، مع إنشاء طرق مُمهدة وإضافة وحدات إنارة حديثة لإضفاء مظهر حضري متطور. كما يشمل المشروع تحسين المنطقة المحيطة وتنظيفها، بما يسهم في خلق بيئة منظمة وجاذبة",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "084_en",
+    "source": "Custom Dataset/source/084.jpg",
+    "target": "Custom Dataset/target/084.jpg",
+    "instruction": "Transform this alley into a modern mall and add a fountain.",
+    "instruction_language": "en",
+    "task_type": "Transform"
+  },
+  {
+    "key": "084_ar",
+    "source": "Custom Dataset/source/084.jpg",
+    "target": "Custom Dataset/target/084.jpg",
+    "instruction": "إعادة تصميم الزقاق وتحويله إلى مجمع تجاري حديث يضم مساحات مخصصة للمحال والخدمات، مع إنشاء نافورة في المركز تضيف عنصرًا بصريًا جذابًا وتعزز من تجربة الزوار",
+    "instruction_language": "ar",
+    "task_type": "Transform"
+  },
+  {
+    "key": "085_en",
+    "source": "Custom Dataset/source/085.jpg",
+    "target": "Custom Dataset/target/085.jpg",
+    "instruction": "revitalize the buildings, modernize the shops, and add roads and lights for a contemporary look. Enhance the surrounding area and clean up the space.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "085_ar",
+    "source": "Custom Dataset/source/085.jpg",
+    "target": "Custom Dataset/target/085.jpg",
+    "instruction": "تجديد المباني وتحديث المحال التجارية بما يعكس الطابع العصري، مع إنشاء طرق مُمهدة وإضافة وحدات إنارة حديثة لإضفاء مظهر حضري متطور. كما يشمل المشروع تحسين المنطقة المحيطة وتنظيفها، بما يسهم في خلق بيئة منظمة وجاذبة",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "086_en",
+    "source": "Custom Dataset/source/086.jpg",
+    "target": "Custom Dataset/target/086.jpg",
+    "instruction": "Revitalize the market. Enhance the surrounding area and clean up the space.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "086_ar",
+    "source": "Custom Dataset/source/086.jpg",
+    "target": "Custom Dataset/target/086.jpg",
+    "instruction": "إعادة إحياء السوق من خلال الترميم وإضافة وحدات إضاءة حديثة. تحسين المنطقة المحيطة وتنظيف المساحات لخلق بيئة أكثر جاذبية وتنظيمًا.",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "087_en",
+    "source": "Custom Dataset/source/087.jpg",
+    "target": "Custom Dataset/target/087.jpg",
+    "instruction": "Enhance the environment by cleaning the area and applying fresh paint.",
+    "instruction_language": "en",
+    "task_type": "Transform"
+  },
+  {
+    "key": "087_ar",
+    "source": "Custom Dataset/source/087.jpg",
+    "target": "Custom Dataset/target/087.jpg",
+    "instruction": "تحسين البيئة من خلال تنظيف المنطقة وإعادة الطلاء لإضفاء مظهر متجدد وجذاب.",
+    "instruction_language": "ar",
+    "task_type": "Transform"
+  },
+  {
+    "key": "088_en",
+    "source": "Custom Dataset/source/088.jpg",
+    "target": "Custom Dataset/target/088.jpg",
+    "instruction": "Revitalize the buildings, modernize the shops, and add roads and lights for a contemporary look. Enhance the surrounding area and clean up the space.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "088_ar",
+    "source": "Custom Dataset/source/088.jpg",
+    "target": "Custom Dataset/target/088.jpg",
+    "instruction": "تجديد المباني وتحديث المحال التجارية بما يتماشى مع الطابع العصري، مع إنشاء طرق منظمة وإضافة إنارة حديثة لخلق مشهد حضري معاصر. يشمل المشروع أيضًا تحسين البيئة المحيطة وتنظيف المساحات لتحقيق بيئة أكثر تنظيمًا وجاذبية.",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "089_en",
+    "source": "Custom Dataset/source/089.jpg",
+    "target": "Custom Dataset/target/089.jpg",
+    "instruction": "Enhance the environment by cleaning the area and applying fresh paint.",
+    "instruction_language": "en",
+    "task_type": "Transform"
+  },
+  {
+    "key": "089_ar",
+    "source": "Custom Dataset/source/089.jpg",
+    "target": "Custom Dataset/target/089.jpg",
+    "instruction": "تحسين البيئة من خلال تنظيف المنطقة وإعادة الطلاء لإضفاء مظهر متجدد وجذاب.",
+    "instruction_language": "ar",
+    "task_type": "Transform"
+  },
+  {
+    "key": "090_en",
+    "source": "Custom Dataset/source/090.jpg",
+    "target": "Custom Dataset/target/090.jpg",
+    "instruction": "Enhance the environment by cleaning the area and applying fresh paint.",
+    "instruction_language": "en",
+    "task_type": "Transform"
+  },
+  {
+    "key": "090_ar",
+    "source": "Custom Dataset/source/090.jpg",
+    "target": "Custom Dataset/target/090.jpg",
+    "instruction": "تحسين البيئة من خلال تنظيف المنطقة وإعادة الطلاء لإضفاء مظهر متجدد وجذاب.",
+    "instruction_language": "ar",
+    "task_type": "Transform"
+  },
+  {
+    "key": "091_en",
+    "source": "Custom Dataset/source/091.jpg",
+    "target": "Custom Dataset/target/091.jpg",
+    "instruction": "Enhance the environment by cleaning the area and applying fresh paint.",
+    "instruction_language": "en",
+    "task_type": "Transform"
+  },
+  {
+    "key": "091_ar",
+    "source": "Custom Dataset/source/091.jpg",
+    "target": "Custom Dataset/target/091.jpg",
+    "instruction": "تحسين البيئة من خلال تنظيف المنطقة وإعادة الطلاء لإضفاء مظهر متجدد وجذاب.",
+    "instruction_language": "ar",
+    "task_type": "Transform"
+  },
+  {
+    "key": "092_en",
+    "source": "Custom Dataset/source/092.jpg",
+    "target": "Custom Dataset/target/092.jpg",
+    "instruction": "Revitalize the buildings in Arabian style, adding roads for a modern touch. Enhance and clean the surrounding area.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "092_ar",
+    "source": "Custom Dataset/source/092.jpg",
+    "target": "Custom Dataset/target/092.jpg",
+    "instruction": "تجديد المباني بطابع عربي أصيل، مع إضافة طرق حديثة لإضفاء لمسة عصرية. تحسين المنطقة المحيطة وتنظيفها لخلق بيئة متناسقة تجمع بين الأصالة والحداثة",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "093_en",
+    "source": "Custom Dataset/source/093.jpg",
+    "target": "Custom Dataset/target/093.jpg",
+    "instruction": "Enhance the environment by cleaning the area and applying fresh paint.",
+    "instruction_language": "en",
+    "task_type": "Transform"
+  },
+  {
+    "key": "093_ar",
+    "source": "Custom Dataset/source/093.jpg",
+    "target": "Custom Dataset/target/093.jpg",
+    "instruction": "تحسين البيئة من خلال تنظيف المنطقة وإعادة الطلاء لإضفاء مظهر متجدد وجذاب.",
+    "instruction_language": "ar",
+    "task_type": "Transform"
+  },
+  {
+    "key": "094_en",
+    "source": "Custom Dataset/source/094.jpg",
+    "target": "Custom Dataset/target/094.jpg",
+    "instruction": "Revitalize the market and add lights. Enhance the surrounding area and clean up the space.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "094_ar",
+    "source": "Custom Dataset/source/094.jpg",
+    "target": "Custom Dataset/target/094.jpg",
+    "instruction": "إعادة إحياء السوق من خلال الترميم وإضافة وحدات إضاءة حديثة. تحسين المنطقة المحيطة وتنظيف المساحات لخلق بيئة أكثر جاذبية وتنظيمًا.",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "095_en",
+    "source": "Custom Dataset/source/095.jpg",
+    "target": "Custom Dataset/target/095.jpg",
+    "instruction": "Enhance the environment by cleaning the area and applying fresh paint.",
+    "instruction_language": "en",
+    "task_type": "Transform"
+  },
+  {
+    "key": "095_ar",
+    "source": "Custom Dataset/source/095.jpg",
+    "target": "Custom Dataset/target/095.jpg",
+    "instruction": "تحسين البيئة من خلال تنظيف المنطقة وإعادة الطلاء لإضفاء مظهر متجدد وجذاب.",
+    "instruction_language": "ar",
+    "task_type": "Transform"
+  },
+  {
+    "key": "096_en",
+    "source": "Custom Dataset/source/096.jpg",
+    "target": "Custom Dataset/target/096.jpg",
+    "instruction": "Revitalize the buildings, add fresh paint. Enhance the surrounding area and clean up the space",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "096_ar",
+    "source": "Custom Dataset/source/096.jpg",
+    "target": "Custom Dataset/target/096.jpg",
+    "instruction": "تجديد المباني من خلال الترميم وإعادة الطلاء بألوان نابضة بالحياة. تحسين البيئة المحيطة عبر تنظيم المساحات، وإزالة التشوهات البصرية، وتنظيف المنطقة لإضفاء طابع حضري نظيف ومتجدد",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "097_en",
+    "source": "Custom Dataset/source/097.jpg",
+    "target": "Custom Dataset/target/097.jpg",
+    "instruction": "Revitalize the buildings, add fresh paint. Enhance the surrounding area and clean up the space.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "097_ar",
+    "source": "Custom Dataset/source/097.jpg",
+    "target": "Custom Dataset/target/097.jpg",
+    "instruction": "تجديد المباني من خلال الترميم وإعادة الطلاء بألوان نابضة بالحياة. تحسين البيئة المحيطة عبر تنظيم المساحات، وإزالة التشوهات البصرية، وتنظيف المنطقة لإضفاء طابع حضري نظيف ومتجدد",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "098_en",
+    "source": "Custom Dataset/source/098.jpg",
+    "target": "Custom Dataset/target/098.jpg",
+    "instruction": "Transform this alley into a market and add shads.",
+    "instruction_language": "en",
+    "task_type": "Transform"
+  },
+  {
+    "key": "098_ar",
+    "source": "Custom Dataset/source/098.jpg",
+    "target": "Custom Dataset/target/098.jpg",
+    "instruction": "إعادة تصميم الزقاق ليصبح سوقًا نابضًا بالحياة، مع تركيب مظلات عصرية توفر الظل وتُضفي طابعًا جماليًا ووظيفيًا على المساحة.",
+    "instruction_language": "ar",
+    "task_type": "Transform"
+  },
+  {
+    "key": "099_en",
+    "source": "Custom Dataset/source/099.jpg",
+    "target": "Custom Dataset/target/099.jpg",
+    "instruction": "Revitalize the buildings, and add roads and bins for a contemporary look. Enhance the surrounding area and clean up the space.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "099_ar",
+    "source": "Custom Dataset/source/099.jpg",
+    "target": "Custom Dataset/target/099.jpg",
+    "instruction": "أعيدي إحياء المباني من خلال الترميم وإعادة الطلاء بألوان عصرية، مع إنشاء طرق منظمة وتركيب حاويات نفايات بتصميم حديث لتعزيز الطابع الحضري. اعملي على تنسيق وتحسين المساحات المحيطة، وتنظيف البيئة لتوفير مظهر جذّاب ومستدام.",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "100_en",
+    "source": "Custom Dataset/source/100.jpg",
+    "target": "Custom Dataset/target/100.jpg",
+    "instruction": "Revitalize the buildings, and add roads and bins for a contemporary look. Enhance the surrounding area and clean up the space.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "100_ar",
+    "source": "Custom Dataset/source/100.jpg",
+    "target": "Custom Dataset/target/100.jpg",
+    "instruction": "أعيدي إحياء المباني من خلال الترميم وإعادة الطلاء بألوان عصرية، مع إنشاء طرق منظمة وتركيب حاويات نفايات بتصميم حديث لتعزيز الطابع الحضري. اعملي على تنسيق وتحسين المساحات المحيطة، وتنظيف البيئة لتوفير مظهر جذّاب ومستدام.",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "101_en",
+    "source": "Custom Dataset/source/101.jpg",
+    "target": "Custom Dataset/target/101.jpg",
+    "instruction": "Revitalize the buildings, and add roads and bins for a contemporary look. Enhance the surrounding area and clean up the space.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "101_ar",
+    "source": "Custom Dataset/source/101.jpg",
+    "target": "Custom Dataset/target/101.jpg",
+    "instruction": "أعيدي إحياء المباني من خلال الترميم وإعادة الطلاء بألوان عصرية، مع إنشاء طرق منظمة وتركيب حاويات نفايات بتصميم حديث لتعزيز الطابع الحضري. اعملي على تنسيق وتحسين المساحات المحيطة، وتنظيف البيئة لتوفير مظهر جذّاب ومستدام.",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+
+  },
+  {
+    "key": "102_en",
+    "source": "Custom Dataset/source/102.jpg",
+    "target": "Custom Dataset/target/102.jpg",
+    "instruction": "Revitalize the buildings, and add roads and bins for a contemporary look. Enhance the surrounding area and clean up the space.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "102_ar",
+    "source": "Custom Dataset/source/102.jpg",
+    "target": "Custom Dataset/target/102.jpg",
+    "instruction": "أعيدي إحياء المباني من خلال الترميم وإعادة الطلاء بألوان عصرية، مع إنشاء طرق منظمة وتركيب حاويات نفايات بتصميم حديث لتعزيز الطابع الحضري. اعملي على تنسيق وتحسين المساحات المحيطة، وتنظيف البيئة لتوفير مظهر جذّاب ومستدام.",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "103_en",
+    "source": "Custom Dataset/source/103.jpg",
+    "target": "Custom Dataset/target/103.jpg",
+    "instruction": "Revitalize the buildings, and add roads and bins for a contemporary look. Enhance the surrounding area and clean up the space.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "103_ar",
+    "source": "Custom Dataset/source/103.jpg",
+    "target": "Custom Dataset/target/103.jpg",
+    "instruction": "أعيدي إحياء المباني من خلال الترميم وإعادة الطلاء بألوان عصرية، مع إنشاء طرق منظمة وتركيب حاويات نفايات بتصميم حديث لتعزيز الطابع الحضري. اعملي على تنسيق وتحسين المساحات المحيطة، وتنظيف البيئة لتوفير مظهر جذّاب ومستدام.",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "104_en",
+    "source": "Custom Dataset/source/104.jpg",
+    "target": "Custom Dataset/target/104.jpg",
+    "instruction": "Revitalize the buildings, and add roads and bins for a contemporary look. Enhance the surrounding area and clean up the space.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "104_ar",
+    "source": "Custom Dataset/source/104.jpg",
+    "target": "Custom Dataset/target/104.jpg",
+    "instruction": "أعيدي إحياء المباني من خلال الترميم وإعادة الطلاء بألوان عصرية، مع إنشاء طرق منظمة وتركيب حاويات نفايات بتصميم حديث لتعزيز الطابع الحضري. اعملي على تنسيق وتحسين المساحات المحيطة، وتنظيف البيئة لتوفير مظهر جذّاب ومستدام.",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "105_en",
+    "source": "Custom Dataset/source/105.jpg",
+    "target": "Custom Dataset/target/105.jpg",
+    "instruction": "Revitalize the buildings, and add roads and bins for a contemporary look. Enhance the surrounding area and clean up the space.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "105_ar",
+    "source": "Custom Dataset/source/105.jpg",
+    "target": "Custom Dataset/target/105.jpg",
+    "instruction": "أعيدي إحياء المباني من خلال الترميم وإعادة الطلاء بألوان عصرية، مع إنشاء طرق منظمة وتركيب حاويات نفايات بتصميم حديث لتعزيز الطابع الحضري. اعملي على تنسيق وتحسين المساحات المحيطة، وتنظيف البيئة لتوفير مظهر جذّاب ومستدام.",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "106_en",
+    "source": "Custom Dataset/source/106.jpg",
+    "target": "Custom Dataset/target/106.jpg",
+    "instruction": "Revitalize the buildings, and add roads and bins for a contemporary look. Enhance the surrounding area and clean up the space.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "106_ar",
+    "source": "Custom Dataset/source/106.jpg",
+    "target": "Custom Dataset/target/106.jpg",
+    "instruction": "أعيدي إحياء المباني من خلال الترميم وإعادة الطلاء بألوان عصرية، مع إنشاء طرق منظمة وتركيب حاويات نفايات بتصميم حديث لتعزيز الطابع الحضري. اعملي على تنسيق وتحسين المساحات المحيطة، وتنظيف البيئة لتوفير مظهر جذّاب ومستدام.",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "107_en",
+    "source": "Custom Dataset/source/107.jpg",
+    "target": "Custom Dataset/target/107.jpg",
+    "instruction": "Revitalize the buildings, and add roads and bins for a contemporary look. Enhance the surrounding area and clean up the space.",
+    "instruction_language": "en",
+    "task_type": "Revitalize"
+  },
+  {
+    "key": "107_ar",
+    "source": "Custom Dataset/source/107.jpg",
+    "target": "Custom Dataset/target/107.jpg",
+    "instruction": "أعيدي إحياء المباني من خلال الترميم وإعادة الطلاء بألوان عصرية، مع إنشاء طرق منظمة وتركيب حاويات نفايات بتصميم حديث لتعزيز الطابع الحضري. اعملي على تنسيق وتحسين المساحات المحيطة، وتنظيف البيئة لتوفير مظهر جذّاب ومستدام.",
+    "instruction_language": "ar",
+    "task_type": "Revitalize"
+  }
+
+
+]
