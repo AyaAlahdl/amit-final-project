@@ -63,5 +63,6 @@ Generate edited results with Step1X-Edit
 ---
 ## Authors
 
-Mai and Aya
+**Mai and Aya**
+
 Final Project — AMIT Institute
