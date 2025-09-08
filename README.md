@@ -1,7 +1,7 @@
 # StepX1Edit - Facade Studio  
 
 An AI-powered system for **instruction-driven architectural facade generation and editing** using diffusion models.  
-Developed as the **AMIT Final Project** by **Mai and Aya **.  
+Developed as the **AMIT Final Project** by **Mai and Aya**.  
 
 ---
 
@@ -43,7 +43,7 @@ Contains 200 natural language prompts for testing edits
 
 ## Example Workflow
 
-** Load a facade image from the dataset **
+**Load a facade image from the dataset**
 
 Enter an instruction, e.g.: 
 
