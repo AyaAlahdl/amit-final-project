@@ -28,8 +28,8 @@ cd amit-final-project
 ```bash
 jupyter notebook StepX1Edit_Facade_Studio.ipynb
 ```
---
-Dataset
+---
+## Dataset
 
 CMP Facade Database Extended (CMP_facade_DB_extended.zip)
 
