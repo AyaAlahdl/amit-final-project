@@ -13,6 +13,7 @@ The **StepX1Edit Facade Studio** integrates:
 
 The system enables **natural language editing of urban facades**, supports **reproducible testing** with datasets, and demonstrates **real-time generation** for architectural and sustainability applications.  
 
+**Implementation note (compatibility)**: We attempted to use Step1X-Edit as the primary instruction editor. Due to intermittent loading/inference issues in some Colab/runtime setups, the notebook includes an automatic fallback to Instruct-Pix2Pix (timbrooks/instruct-pix2pix). The system attempts to load Step1X-Edit first and uses the fallback if loading fails; the UI and logs report which model was used for each run.
 ---
 ##  Installation  
 
