@@ -67,7 +67,7 @@ Batch Processing Optimization: For dataset-scale operations, we implement dynami
 ## **3\. Implementation**
 
 ### **3.1 Core Pipeline Implementation**
-
+```
 def build\_txt2img(model\_id\=TXT2IMG\_MODEL):  
   \# Generates high-quality facade images from text prompts  
     pipe \= AutoPipelineForText2Image.from\_pretrained(  
@@ -93,13 +93,13 @@ def run\_t2i(pipe, prompt, seed\= \-1, steps\=20, guidance\=2.0, width\=1024, he
 @torch.inference\_mode()  
 \#Instruction-based image editing with guidance controls  
 def run\_edit(pipe, init\_image: Image.Image, instruction, seed\=\-1, steps\=20, guidance\=1.8, image\_guidance\=1.5):  
-   
+   ```
 ---
 
 ### **3.2 Data Management System**
 
 Dataset Processing: We developed a comprehensive data pipeline for the CMP Facade Database, including automatic format detection, path resolution, and metadata extraction.
-
+```
 with zipfile.ZipFile(zip\_path, 'r') as zip\_ref:  
     zip\_ref.extractall(out\_dir)  
 import os  
@@ -122,11 +122,12 @@ for name in df\['image'\].astype(str):
 
 df\_fixed \= df.copy()  
 df\_fixed\['image'\] \= fullpaths
+```
 
 ### **3.3 User Interface Design**
 
 We implemented a three-tab Gradio interface optimized for architectural workflows:
-
+```
 import gradio as gr
 
 \_t2i\_pipe \= {"pipe": None}  
@@ -194,7 +195,7 @@ with gr.Blocks(title="StepX1Edit \- Facade Studio") as demo:
         ds\_btn.click(pick\_dataset\_image, ds\_dd, ds\_img)
 
 demo.queue().launch(share=True)
-
+```
 ---
 
 ## **4\. Results**  **4.1 Qualitative Results**
