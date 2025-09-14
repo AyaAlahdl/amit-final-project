@@ -53,6 +53,11 @@ Enter an instruction, e.g.:
 “Add greenery and modernize the facade”
 
 Generate edited results with Step1X-Edit
+---
+## Demo
+
+![Demo — StepX1Edit Facade Studio](assets/untitled-demo.gif)
+---
 
 ## References
 
