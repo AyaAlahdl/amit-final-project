@@ -1,4 +1,4 @@
-# StepX1Edit - Facade Studio  
+# StepX1Edit — Facade Studio 
 
 An AI-powered system for **instruction-driven architectural facade generation and editing** using diffusion models.  
 Developed as the **AMIT Final Project** by **Mai and Aya**.  
@@ -7,22 +7,34 @@ Developed as the **AMIT Final Project** by **Mai and Aya**.
 
 ## Project Overview  
 The **StepX1Edit Facade Studio** integrates:  
-- **Step1X-Edit** → for instruction-based image editing  
-- **SDXL-Turbo** → for rapid, high-quality image generation  
-- **CMP Facade Database Extended (456 images)** → for evaluation  
+- **Step1X-Edit** → instruction-based image editing  
+- **SDXL-Turbo** → rapid, high-quality image generation  
+- **CMP Facade Database Extended (456 images)** → reproducible evaluation  
 
-The system enables **natural language editing of urban facades**, supports **reproducible testing** with datasets, and demonstrates **real-time generation** for architectural and sustainability applications.  
+ Features:  
+- Generate **facade concepts** from text prompts.  
+- Apply **natural language edits** to existing building facades.  
+- Support **dataset-based evaluation** for research & reproducibility.  
+- Provide a simple **Gradio UI** with tabs for Generate, Edit, and Dataset Browser.  
 
-**Implementation note (compatibility)** : We attempted to use Step1X-Edit as the primary instruction editor. Due to intermittent loading/inference issues in some Colab/runtime setups, the notebook includes an automatic fallback to Instruct-Pix2Pix (timbrooks/instruct-pix2pix). The system attempts to load Step1X-Edit first and uses the fallback if loading fails; the UI and logs report which model was used for each run.
+⚙️ **Implementation note (compatibility):**  
+- Step1X-Edit is the primary instruction editor.  
+- If it fails to load (e.g., in Colab), the system falls back to **Instruct-Pix2Pix** (`timbrooks/instruct-pix2pix`).  
+- The interface and logs report which model was used.  
 
 ---
 
-##  Installation  
+## Installation  
 
-1. Clone this repo:  
+Clone this repo:  
 ```bash
 git clone https://github.com/yourusername/amit-final-project.git
 cd amit-final-project
+
+```
+## Install dependencies:
+```
+pip install -r requirements.txt
 ```
 ---
 ## Run the Notebook
@@ -46,22 +58,32 @@ Contains 200 natural language prompts for testing edits
 
 ## Example Workflow
 
-**Load a facade image from the dataset**
+1. Load a facade image from the dataset.
 
-Enter an instruction, e.g.: 
-
+2. Enter an instruction, e.g.:
 “Add greenery and modernize the facade.”
 
-Generate edited results with Step1X-Edit
+3. Generate edited results with Step1X-Edit.
+
 ---
 ## Demo
 
 ![Demo — StepX1Edit Facade Studio](assets/Demo.gif)
 ---
+## Roadmap & Future Work
 
+ Expand the dataset with more real-world facade images
+
+ Support 3D/BIM integration for architectural workflows
+
+ Improve the semantic consistency of instruction edits
+
+ Deploy as a cloud-hosted service (e.g., Hugging Face Spaces or AWS)
+ ---
+ 
 ## References
 
-- Hugging Face Diffusers
+- Hugging Face Diffusers![Demo — StepX1Edit Facade Studio](https://huggingface.co/docs/diffusers)
 
 - SDXL-Turbo
 
