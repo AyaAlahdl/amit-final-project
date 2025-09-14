@@ -29,7 +29,7 @@ cd amit-final-project
 
 **Open StepX1Edit_Facade_Studio.ipynb in Jupyter or Colab:**
 ```bash
-jupyter notebook StepX1Edit_Facade_Studio.ipynb
+jupyter notebook Gradio.ipynb
 ```
 ---
 ## Dataset
