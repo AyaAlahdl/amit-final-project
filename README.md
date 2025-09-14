@@ -50,13 +50,13 @@ Contains 200 natural language prompts for testing edits
 
 Enter an instruction, e.g.: 
 
-“Add greenery and modernize the facade”
+“Add greenery and modernize the facade.”
 
 Generate edited results with Step1X-Edit
 ---
 ## Demo
 
-![Demo — StepX1Edit Facade Studio](assets/untitled-demo.gif)
+![Demo — StepX1Edit Facade Studio](assets/Demo.gif)
 ---
 
 ## References
